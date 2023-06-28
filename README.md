@@ -10,4 +10,4 @@ It is a 3D platformer game, where you need to catch all of the spirits who escap
 into the wilderness and they hid themselves inside sheeps, rocks or plantlife.
 After that, your goal is to find the magical Valashaka at the top of the mountain called Krivan and finish the game.
 
-![](https://img.itch.zone/aW1hZ2UvMTY3MDg3OS8xMDI1NDUyMy5wbmc=/original/CqeXFw.png | width=100)
+![](https://img.itch.zone/aW1hZ2UvMTY3MDg3OS8xMDI1NDUyMy5wbmc=/original/CqeXFw.png =250x250)
