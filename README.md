@@ -9,3 +9,5 @@ In this singleplayer game, you will take control of the Shepherd's dog named Dun
 It is a 3D platformer game, where you need to catch all of the spirits who escaped from Pandora's box, 
 into the wilderness and they hid themselves inside sheeps, rocks or plantlife.
 After that, your goal is to find the magical Valashaka at the top of the mountain called Krivan and finish the game.
+
+![](https://img.itch.zone/aW1hZ2UvMTY3MDg3OS8xMDI1NDUyMy5wbmc=/original/CqeXFw.png)
