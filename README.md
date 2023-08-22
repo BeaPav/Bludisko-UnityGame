@@ -6,6 +6,7 @@ Links to computer game development projects I have been involved in.
 Project DuncoGame was created during SummerGameDev 2022 and won the first price from judges.
 
 [Link to game page.](https://beapav.itch.io/duncogame)
+[Link to repo.](git@github.com:BeaPav/DuncoGame.git)
 
 In this singleplayer game, you will take control of the Shepherd's dog named Dunco. 
 It is a 3D platformer game, where you need to catch all of the spirits who escaped from Pandora's box, 
